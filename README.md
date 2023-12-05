@@ -6,7 +6,7 @@ Motion X View offers a comprehensive interface to display real-time `roll`, `pit
 
 The app uses `WebSocket` for fast and low-latency data communication and offers real-time 3D visualization and charting capabilities for an enhanced user experience.
 
-https://github.com/LkxPro/Motion-X-iOS/assets/20046257/59233619-5f04-444b-8ef8-7bd83a953daa
+https://github.com/LkxPro/Motion-X-Mac/assets/20046257/ce4994c9-8c17-4e87-8854-b36eaa591595
 
 ## Features
 
